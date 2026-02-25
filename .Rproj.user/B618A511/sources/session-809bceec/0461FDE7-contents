@@ -1,8 +1,0 @@
-
-library(terra)
-ndvi <- rast("multispectral/outputs/NDRE_monthly_median_2023-01_20m.tif")
-plot(ndvi)
-
-png("docs/ndvi_2023_01.png", width=1200, height=900, res=150)
-plot(ndvi, main="NDVI January 2023")
-dev.off()
