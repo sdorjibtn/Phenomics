@@ -2,7 +2,6 @@
 # Sentinel-2 L2A Monthly Multispectral Workflow (R | Laptop + Bunya)
 # ------------------------------------------------------------
 # Author: Sangay Dorji
-# Sentinel raw has not been saved due to file size
 # Workflow:
 #  1) STAC search Sentinel-2 L2A over AOI (WGS84)
 #  2) Read COG assets directly (no manual downloads)
