@@ -1,0 +1,21 @@
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data and outputs (large files)
+data/
+outputs/
+*/data/
+*/outputs/
+
+# Raster files
+*.tif
+*.tiff
+*.png
+*.jpg
+*.rds
+*.csv
+
+# Temp files
+tmp/
