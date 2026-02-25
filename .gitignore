@@ -1,7 +1,7 @@
 # R files
 .Rhistory
 .RData
-.Rproj.user/
+.Rproj
 
 # Data and outputs (large files)
 data/
